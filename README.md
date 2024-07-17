@@ -2,7 +2,7 @@
 ![Screenshot 2024-07-17 135856](https://github.com/user-attachments/assets/aa0041fd-34ed-477e-a53e-d2d0d7cfabc9)
 
 ## Purpose
-The purpose of this project was to collect earthquake data from the past 7 days from the [geojson website](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) built by the USGS and visualize that data using Leaflet.js to make an interactive map.
+The purpose of this project was to collect earthquake data from the past 7 days from the [geojson website](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) built by the USGS and visualize that data using Leaflet.js to make an interactive map.
 The map displays earthquakes using two dimensions:
 1. Magnitude is represented by the size of the circle (higher magnitudes = larger circles)
 2. Depth of the earthquake is displayed with the color of the circle (green is -10-10km, yellow is 10-30km ....red is 90+ km)
