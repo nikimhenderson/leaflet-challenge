@@ -15,8 +15,6 @@ Click on each circle to display the magnitude, location and depth of each earthq
 1. Create the map and tile layer using Leaflet.js <br/>
 ![Screenshot 2024-07-17 140538](https://github.com/user-attachments/assets/d7c0d233-2267-49b8-84c3-019eaa795773)
 <br/>
-2. Use D3.js to read in the data and create a function to choose the color and radius of the circles
-![Screenshot 2024-07-17 140809](https://github.com/user-attachments/assets/649e07e3-9ed6-4511-be54-fc7664aa5f2a)
 
 2. Use D3.js to read in the data and create a function to choose the color and radius of the circles <br/>
 ![Screenshot 2024-07-17 140809](https://github.com/user-attachments/assets/8235a47e-51d6-4dc9-8adc-2292d56af847)
