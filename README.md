@@ -23,7 +23,8 @@ let myMap = L.map("map", {
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution:
     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-}).addTo(myMap); ```<br/>
+}).addTo(myMap);
+```<br/>
 
 2. Use D3.js to read in the data and create a function to choose the color and radius of the circles
 3. Using L.geoJson add the circles to the coordinates from the data and create a pop-up for each circle with magnitude, location and depth
