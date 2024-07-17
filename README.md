@@ -8,7 +8,7 @@ The map displays earthquakes using two dimensions:
 2. Depth of the earthquake is displayed with the color of the circle (green is -10-10km, yellow is 10-30km ....red is 90+ km)
 
 ## How to Use
-Go to [https://nikimhenderson.github.io/leaflet-challenge/](https://nikimhenderson.github.io/leaflet-challenge/)
+Go to [https://nikimhenderson.github.io/leaflet-challenge/](https://nikimhenderson.github.io/leaflet-challenge/) <br/>
 Click on each circle to display the magnitude, location and depth of each earthquake
 
 ## Steps to Part 1
