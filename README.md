@@ -18,14 +18,16 @@ Click on each circle to display the magnitude, location and depth of each earthq
 
 2. Use D3.js to read in the data and create a function to choose the color and radius of the circles <br/>
 ![Screenshot 2024-07-17 140809](https://github.com/user-attachments/assets/8235a47e-51d6-4dc9-8adc-2292d56af847)
-
 <br/>
+
 3. Using L.geoJson add the circles to the coordinates from the data and create a pop-up for each circle with magnitude, location and depth <br/>
 ![Screenshot 2024-07-17 140818](https://github.com/user-attachments/assets/32b3b775-3363-47ca-a0b4-7e3751ea2c08)
 <br/>
+
 4. Create a function to choose the color and the radius of each circle according to depth and magnitude <br/>
 ![Screenshot 2024-07-17 140934](https://github.com/user-attachments/assets/66a2d73e-5ff3-41c1-b847-e353453ccc89)
 <br/>
+
 5. Add a legend to the map to indicate which depths are associated with which colors <br/>
 ![Screenshot 2024-07-17 141007](https://github.com/user-attachments/assets/8346c547-cb12-46fe-adb6-6905ec1d7323)
 
